@@ -47,4 +47,7 @@ int main() {
 	mhs.output();
 
 	mk.input();
+	mk.output();
+
+	return 0;
 }
