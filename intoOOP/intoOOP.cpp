@@ -40,4 +40,6 @@ class Matakuliah {
 int main() {
 	Mahasiswa mhs;
 	Matakuliah mk;
+
+	mhs.nama = "Budi";
 }
